@@ -1,0 +1,11 @@
+# Comment
+
+Open circuit scuba systems discharge the breathing gas into the environment as it is exhaled, and consist of one or more diving cylinders containing breathing gas at high pressure which is supplied to the diver through a diving regulator. 
+
+They may include additional cylinders for range extension, decompression gas or emergency breathing gas. 
+
+Closed-circuit or semi-closed circuit rebreather scuba systems allow recycling of exhaled gases. 
+
+The volume of gas used is reduced compared to that of open circuit, so a smaller cylinder or cylinders may be used for an equivalent dive duration. 
+
+Rebreathers extend the time spent underwater compared to open circuit for the same gas consumption; they produce fewer bubbles and less noise than open circuit scuba which makes them attractive to covert military divers to avoid detection, scientific divers to avoid disturbing marine animals, and media divers to avoid bubble interference.
