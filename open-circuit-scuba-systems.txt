@@ -11,3 +11,5 @@ The volume of gas used is reduced compared to that of open circuit, so a smaller
 Rebreathers extend the time spent underwater compared to open circuit for the same gas consumption; they produce fewer bubbles and less noise than open circuit scuba which makes them attractive to covert military divers to avoid detection, scientific divers to avoid disturbing marine animals, and media divers to avoid bubble interference.
 
 Humpback whales use bubbles to form walls underwater to corral fish.
+
+The whales will swim underneath their bubble walls after having formed them and eat the fish.
